@@ -1,0 +1,1 @@
+control (P9>0 or (played==1 and P1>0) or (played==1 and P4>0) or (emptying_buffer==1 and (P4>0 or P1>0)))
