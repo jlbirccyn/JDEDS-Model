@@ -1,0 +1,1 @@
+control (shutd>0 or (played==1 and wait>0) or (played==1 and write>0) or (emptying_buffer==1 and (wait>0 or write>0)))
